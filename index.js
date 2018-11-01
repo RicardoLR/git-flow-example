@@ -7,7 +7,7 @@ app.get('/', function (req, res) {
 
 
 app.get('/ruta', function (req, res) {
-  res.send('Hello ruta World!');
+  res.send('Hello ruta de RIW World!');
 });
 
 
